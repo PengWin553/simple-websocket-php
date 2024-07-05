@@ -1,0 +1,6 @@
+1. After pasting the code, go to your xampp and run it as usual. go to the Apche's php.ini file and uncomment the socket (to allow it)
+
+open your cmd and type the path to your client:
+
+ex:
+php -f C:\xampp\htdocs\simple-websocket-php\server.php
